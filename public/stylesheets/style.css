@@ -1,0 +1,37 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#insertReactHere {
+  padding :10px;
+  border : solid thin #EEEEEE;
+  box-shadow : 0px 0px 8px 8px rgba(80,80,80,0.3);
+}
+
+article {
+  border-left : solid 4px rgb(128,0,128);
+  padding-left : 10px;
+  margin-left : 5px;
+  box-shadow : 0px 0px 4px 4px rgba(80,80,80,0.3);
+}
+
+.book {
+  border : solid thin lightgray;
+}
+.book span {
+  padding : 4px 10px;
+  font-size : 16px;
+}
+
+.rating img {
+  width : 16px;
+}
+
+.rating {
+  font-size:16px;
+}
